@@ -1,3 +1,5 @@
+Projecto de master en Nuclio en grupo:
+
 Data analisis exploratorio de todas las columnas.
 
 Exploracion de estas con graficos para indentificacion sobre su valor. 
