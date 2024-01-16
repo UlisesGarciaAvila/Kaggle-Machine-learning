@@ -1,4 +1,4 @@
-Projecto de master en Nuclio en grupo:
+Projecto Kaggle ML del Master en grupo:
 
 1- Data analisis exploratorio de todas las columnas.
 
