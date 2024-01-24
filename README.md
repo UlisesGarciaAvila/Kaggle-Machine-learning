@@ -7,3 +7,6 @@ Projecto Kaggle ML del Master en grupo:
 3- Se eliminan las columas que no aportan nada paso previo a la modelacion de prediccion.
 
 4- Una vez limpiado se le aplica machine learning al dataset.
+
+
+Technologies and Tools
