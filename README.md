@@ -1,6 +1,6 @@
 ##  ML project from Kaggle in the Master with a group:
 
-- Data exploratory analysis of all columns. .
+- Data exploratory analysis of all columns.
 
 - Exploring the columns with graphics and asking the data engineer to identify their value. 
 
