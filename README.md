@@ -1,12 +1,12 @@
-## Projecto Kaggle ML del Master en grupo:
+##  ML project from Kaggle in the Master with a group:
 
-- Data analisis exploratorio de todas las columnas.
+- Data exploratory analysis of all columns. .
 
-- Exploracion de estas con graficos para indentificacion sobre su valor. 
+- Exploring the columns with graphics and asking the data engineer to identify their value. 
 
-- Se eliminan las columas que no aportan nada paso previo a la modelacion de prediccion.
+- Removing columns that do not contribute to the predicction model.
 
-- Una vez limpiado se le aplica machine learning al dataset.
+- Once clean, applied the predicctive model to find which are more likely to get infected.
 
 
 ## Technologies and Tools
